@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wuyan</string>
+
+    <string name="app_title">听音乐的5种新姿势</string>
+    <string name="thing_1_title" translatable="false">Infinite Jukebox</string>
+    <string name="thing_2_title" translatable="false">The Bonhamizer</string>
+    <string name="thing_3_title" translatable="false">Ellie Goulding\'s Burn</string>
+    <string name="thing_4_title" translatable="false">Girl Talk in a Box</string>
+    <string name="thing_5_title" translatable="false">Roadtrip Mixtape</string>
+
+    <string name="thing_1_content">如果你喜欢的歌不够长…\n\n把你喜爱的歌曲上传到这个网页app上去，它就会帮你生成一个变化多端、且无休无止的版歌曲本。Infinite Jukebox运用了Echo Nest的分析程序，将一首歌按节拍分解开来，然后一拍一拍地播放。不过它并不会只按原序播放，而是有时会从歌曲的一部分跳到另一部分去，这里根据的是不同节拍内乐曲的相似性（包括音调、音色、音量、音长以及在这拍音乐在一小节中的位置）。除此之外，这个网页还会显示出一个别致的界面，让你看到每一节拍后所有转换的可能。这个app是在2012年波士顿的Music Hack Day上设计出来的。</string>
+    <string name="thing_2_content">有的歌曲就是需要Bonzo来加点料（Bonzo是Led Zepplin鼓手John Bonham的绰号）\n\n这个app重新演绎歌曲的方式，是让John Bonham（Led Zepplin的鼓手）参与其中。它将歌曲按节拍分割开来，再将这些节拍与John Bonham的鼓奏结合起来。</string>
+    <string name="thing_3_content">好多飞来飞去的小方块！\n\n这个界面将Ellie Goulding的歌曲与Echo Nest的数据同步，创造出动感十足的可视化效果。</string>
+    <string name="thing_4_content">别光愣着听音乐了，你还可以玩音乐\n\nGirl Talk in a Box能让你与你心爱的歌曲互动起来。以节拍为单位，你可以加速播放、减速播放、跳过一些拍子或者倒着播放。你可以加强歌曲的节奏，制造停顿或者调低音高。你可以上传新歌曲也可以选择已有的歌曲。Echo Nest的分析程序按节拍将一首歌分割，并通过彩砖的形式呈现出来，这样你就可以更好地跟这首歌互动了。这个网页是在2013年的MIDEM Music Hack Day上开发出来的。</string>
+    <string name="thing_5_content">自驾游时来份当地艺人的歌曲集锦吧\n\nRoadtrip Mixtape可以帮你生成一个自驾游歌单。这个应用通过使用Echo Nest的API获取到成千上万艺人的所在地信息，只需输入你的起始点和目的地，它就会用途经地艺人的歌曲来创建一个歌单。当你穿越波士顿时，你听到的可能是Aerosmith或者Donna Summer。在新奥尔良穿行时，播放的可能就是Lil Wayne或者Dr. John了。</string>
+
+
+</resources>
